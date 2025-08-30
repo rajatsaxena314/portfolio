@@ -34,7 +34,6 @@ theme = "PaperMod"
     url = "/resources/"
     weight = 50
 
-
 [params]
   showToc = true
   TocOpen = false
