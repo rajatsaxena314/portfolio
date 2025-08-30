@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/portfolio/outreach/ligo-india/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/education/lmu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/research/usm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/education/sppu/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/research/iiser-pune/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/outreach/scipop/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/outreach/space-soc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/research/iucaa/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/research/ncra-tifr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/education/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/outreach/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
+  </url>
+</urlset>
